@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.devnation.flutter_html_editor_forked_example">
+    package="com.example.example">
    <application
-        android:label="flutter_html_editor_forked_example"
+        android:label="example"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
