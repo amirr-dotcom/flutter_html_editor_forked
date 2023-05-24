@@ -15,7 +15,7 @@ class HtmlEditorExampleApp extends StatelessWidget {
       title: 'Flutter Demo',
       theme: ThemeData(),
       darkTheme: ThemeData.dark(),
-      home: HtmlEditorExample(title: 'Flutter HTML Editor Example'),
+      home: const HtmlEditorExample(title: 'Flutter HTML Editor Example'),
     );
   }
 }

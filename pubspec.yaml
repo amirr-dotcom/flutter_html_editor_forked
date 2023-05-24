@@ -13,20 +13,20 @@ dependencies:
     sdk: flutter
   flutter_web_plugins:
     sdk: flutter
-  plugin_platform_interface: ^2.0.2
-  flutter_inappwebview: ^5.4.3+7
-  flutter_keyboard_visibility: ^5.2.0
-  visibility_detector: ^0.3.3
-  file_picker: ^4.5.1
-  pointer_interceptor: ^0.9.3+1
-  flex_color_picker: ^2.5.0
-  numberpicker: ^2.1.1
+  plugin_platform_interface: ^2.1.4
+  flutter_inappwebview: ^5.7.2+3
+  flutter_keyboard_visibility: ^5.4.1
+  visibility_detector: ^0.4.0+2
+  file_picker: ^5.3.1
+  pointer_interceptor: ^0.9.3+4
+  flex_color_picker: ^3.2.2
+  numberpicker: ^2.1.2
   meta: '>=1.0.0 <2.0.0'
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
-  flutter_lints: ^2.0.0
+  flutter_lints: ^2.0.1
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
